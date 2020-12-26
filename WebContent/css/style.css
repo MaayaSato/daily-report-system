@@ -135,23 +135,27 @@ select{
 }
 
 table#report_list th{
-	font-weight: bold;
-	padding: 10px 2%;
+    font-weight: bold;
+    padding: 10px 2%;
 }
 
 table#report_list .report_name{
-	width: 20px;
-	padding: 10px 2%;
+    width: 20px;
+    padding: 10px 2%;
 }
 
 table#report_list .report_date{
-	width: 20px;
+    width: 20px;
 }
 
 table#report_list .report_title{
-	width: 37%;
+    width: 37%;
 }
 
 table#report_list .report_action{
-	width: 13%;
+    width: 13%;
+}
+
+pre{
+    font-fmily: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helveticca,Arial,sans-serif;
 }
